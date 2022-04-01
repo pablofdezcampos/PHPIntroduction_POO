@@ -17,15 +17,34 @@
 - 02-method.php:
     - Classes in php but with the syntaxis of PHP8.
     - Introduction of methods in PHP.
+- 03-access-modificators.php:
+    - Access modificators in PHP -> public, private, protected.
+- 04-static-methods.php:
+    - Static methods in PHP.
+- 05-inheritance.php:
+    - Introduction to Inheritance in PHP.
+- 06-abstract-class.php:
+    - Introduction to Abstract class in PHP.
+- 07-interfaces.php:
+    - Introduction to Interfaces in PHP.
+- 08-polymorphism.php:
+    - Introduction to Polymorphism in PHP.
+- 09-autoload.php:
+    - Introduction to autoload in PHP.
+    - Autoload allow to run external class, located in /class.
+ - 10-name-spaces.php:
+    - Introduction to namespaces in PHP.
+    - Namespace distinguish classes with the same name.
+ - 11-name-spaces-composer.php
+    - Autload with Composer autload.
+ - 12-mysqli.php:
+    - Consult database with PHP POO.
 # Requeriments
 - To understand this introduction to JavaScript you must have a minimun knowledges of php.
 - I recommend to do the Tutorial: https://github.com/pabofdezcampos/PHPIntroduction.
 # Use 
-- The project is structured in folder with the relevant contents of the tutorial.
-- To see the result of a content, you must uncomment one of the section. Later, go to the console of a browser (to run the project you can use LifeServer for example).
-- To go to the console of a browser press f12 or control + shift + i, to see the inspector.
+- You can run any field with the extension of PHP Server in VSCode.
 - Example:
+![image](https://user-images.githubusercontent.com/57486874/161267600-de29dc87-4658-44a3-b8e3-2e31634ede2c.png)
 
-![image](https://user-images.githubusercontent.com/57486874/158759702-eb2465f9-1dcf-4c4d-a835-8a7c800cdcae.png)
-![image](https://user-images.githubusercontent.com/57486874/158759774-17ed3450-c146-4b7e-8340-32138a0e08a9.png)
 
