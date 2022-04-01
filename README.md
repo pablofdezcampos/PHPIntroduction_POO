@@ -1,15 +1,22 @@
 # PHPIntroduction_PO
 
 # Description
-- Project with .php files to introduce object programming for beginners.
+- Project with .php files to introduce object programming in PHP for beginners.
 
 # Technologies 
 - CSS3 for the styles of the elements in the page.
 - header.php and footer.php that give us the visualization from the page.
-- composer.
+- Composer.
 
 # Project Structure
--   
+- The project has a css folder with the styles of the page, a includes folder with the header and footer components.
+- The other folder is part of the tutorial.
+- 01-class.php:
+    - Introduction of the classes in php.
+    - Atributtes access.
+- 02-method.php:
+    - Classes in php but with the syntaxis of PHP8.
+    - Introduction of methods in PHP.
 # Requeriments
 - To understand this introduction to JavaScript you must have a minimun knowledges of php.
 - I recommend to do the Tutorial: https://github.com/pabofdezcampos/PHPIntroduction.
