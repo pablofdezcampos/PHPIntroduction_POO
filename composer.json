@@ -1,0 +1,14 @@
+{
+    "name": "fecapa/php_poo",
+    "description": "Namespaces and Autoload",
+    "authors": [{
+        "name": "Pablo",
+        "email": "correo@correo.com"
+    }],
+    "require": {},
+    "autload": {
+        "psr-4": {
+            "App\\": "./class"
+        }
+    }
+}
