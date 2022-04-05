@@ -38,7 +38,13 @@
  - 11-name-spaces-composer.php
     - Autload with Composer autload.
  - 12-mysqli.php:
-    - Consult database with PHP POO.
+    - Connect database with PHP POO.
+    - Use of prepare statements.
+    - Show results of consult.
+ - 13-pdo.php:
+    - Connect the Database with PDO.
+    - Use of prepare statement.
+    - Show results of consult.
 # Requeriments
 - To understand this introduction to JavaScript you must have a minimun knowledges of php.
 - I recommend to do the Tutorial: https://github.com/pabofdezcampos/PHPIntroduction.
